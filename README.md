@@ -5,7 +5,7 @@
 ([Web version](https://github.com/rougier/scientific-visualization-book/issues/13))
   - [dotfiles](https://github.com/DannyDannyDanny/dotfiles)
   - [methodology](https://github.com/DannyDannyDanny/methodology)
-  - [fakeflac](https://github.com/DannyDannyDanny/fakeflac)
+  - [fakeflac](https://github.com/DannyDannyDanny/fakeflac) / [mulbo](https://github.com/DannyDannyDanny/mulbo)
   - [LARP: high scool simulation](https://github.com/DannyDannyDanny/high-school-simulation)
   - and some private projects.
 - 🌱 I’m currently learning
