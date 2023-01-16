@@ -6,8 +6,6 @@
   - [dotfiles](https://github.com/DannyDannyDanny/dotfiles)
   - [methodology](https://github.com/DannyDannyDanny/methodology)
   - [fakeflac](https://github.com/DannyDannyDanny/fakeflac) / [mulbo](https://github.com/DannyDannyDanny/mulbo)
-  - [LARP: high scool simulation](https://github.com/DannyDannyDanny/high-school-simulation)
-  - and some private projects.
 - 🌱 I’m currently learning
   - [how to publish python package](https://realpython.com/pypi-publish-python-package/)
   - [sphinx documentation](https://www.sphinx-doc.org)
