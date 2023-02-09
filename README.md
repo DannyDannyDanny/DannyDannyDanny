@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on
+  - reducing the number of repos onmy account 🔥
   - [dotfiles](https://github.com/DannyDannyDanny/dotfiles)
   - [methodology](https://github.com/DannyDannyDanny/methodology)
   - [scientific-visualization-book](https://github.com/dannydannydanny/scientific-visualization-book/)
