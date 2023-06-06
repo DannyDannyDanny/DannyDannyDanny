@@ -11,3 +11,4 @@
 - 🎓 B.Sc [Network Engineering](https://www.dtu.dk/uddannelse/bachelor/uddannelsesretninger/cyberteknologi)
 - 🎓 M.Sc [Human-Ceneter Artificial Intelligence](https://www.dtu.dk/english/education/graduate/msc-programmes/Human-Centered-Artificial-Intelligence)
 - 📫 email: dth@taiga.ai
+- ❓ StackOverflow [DannyDannyDanny](https://stackoverflow.com/users/5684214/dannydannydanny)
