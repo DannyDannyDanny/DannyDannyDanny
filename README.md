@@ -8,7 +8,7 @@
 ([Web version](https://github.com/rougier/scientific-visualization-book/issues/13))
 - 🌱 I’m currently learning
   - :books: [sphinx documentation](https://www.sphinx-doc.org)
-- 💟 Add [PR](https://github.com/NixOS/nixpkgs/pull/444969/files))
+- 💟 Add [Darwin/macOS](https://github.com/nix-darwin/nix-darwin) [Love2D](https://github.com/love2d/love) [11.x](https://github.com/love2d/love/releases/tag/11.5) to nixpkgs. [PR](https://github.com/NixOS/nixpkgs/pull/444969/)
 - 💼 [Lundbeck](https://www.lundbeck.com/global) [Data Platform](https://www.getdbt.com/case-studies/lundbeck)
 - 🎓 B.Sc [Network Engineering](https://www.dtu.dk/uddannelse/bachelor/uddannelsesretninger/cyberteknologi)
 - 🎓 M.Sc [Human-Ceneter Artificial Intelligence](https://www.dtu.dk/english/education/graduate/msc-programmes/Human-Centered-Artificial-Intelligence)
