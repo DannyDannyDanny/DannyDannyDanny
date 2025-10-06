@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ⛑️ Currently [consulting](https://www.leap-consulting.dk/) from alternative github accounts
 - 🔭 I’m currently working on
   - reducing the number of repos on my account 🔥
   - [dotfiles](https://github.com/DannyDannyDanny/dotfiles)
