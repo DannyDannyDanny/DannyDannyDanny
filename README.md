@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- ⛑️ Currently [consulting](https://www.leap-consulting.dk/) from alternative GH / ADO accounts (activity :chart_with_downwards_trend:)
+- ⛑️ Primarily [consulting](https://www.leap-consulting.dk/) from alternative GH / ADO accounts (activity :chart_with_downwards_trend:)
 - 🔭 I’m currently working on
-  - reducing the number of repos on my account 🔥
-  - [dotfiles](https://github.com/DannyDannyDanny/dotfiles)
-  - [methodology](https://github.com/DannyDannyDanny/methodology)
-  - [scientific-visualization-book](https://github.com/dannydannydanny/scientific-visualization-book/)
+  - 🔥 reducing the number of repos on my account
+  - 🔨 dbt package: [dbt-drop_orphaned_models](https://github.com/Leap-Consulting/dbt-drop_orphaned_models)
+  - 📁 [dotfiles](https://github.com/DannyDannyDanny/dotfiles)
+  - 💭 [methodology](https://github.com/DannyDannyDanny/methodology)
+  - 📚 [scientific-visualization-book](https://github.com/dannydannydanny/scientific-visualization-book/)
 ([Web version](https://github.com/rougier/scientific-visualization-book/issues/13))
 - 🌱 I’m currently learning
   - :books: [sphinx documentation](https://www.sphinx-doc.org)
